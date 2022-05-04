@@ -4,8 +4,7 @@
 }
 
 body{
-    background: url("img/background_1.avif") no-repeat center center fixed;
-    background-size: cover;  
+    background: #eaf2ce;
 }
 
 .highlight{
