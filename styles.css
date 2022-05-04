@@ -12,6 +12,10 @@ body{
     font-weight: bold;
 }
 
+.container-links a {
+    margin: 5px;
+}
+
 .icon-modal{
     margin-top: 20px;
 }
