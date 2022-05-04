@@ -7,3 +7,29 @@ body{
     background: url("img/background_1.avif") no-repeat center center fixed;
     background-size: cover;  
 }
+
+.highlight{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.icon-modal{
+    margin-top: 20px;
+}
+
+.emphasis{
+    font-weight: bold;
+    color:red;
+}
+
+.icon{
+    width: 50px;
+    height: 50px;
+}
+
+.emphasis:hover {
+    color: rgb(188, 22, 13);
+}
+.icon:hover {
+    transform: scale(1.25);
+}
